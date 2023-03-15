@@ -25,5 +25,5 @@ https://arxiv.org/pdf/1706.03762.pdf
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
 https://arxiv.org/pdf/1810.04805.pdf
 
+# diagram
 ![Image text](https://github.com/576774572/image/blob/main/viterbi-decode.jpg)
-?raw=true
