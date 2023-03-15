@@ -25,8 +25,8 @@ https://huggingface.co/cl-tohoku
 https://github.com/jinseikenai/uth-bert
 
 ## paper
-Attention Is All You Need
+Attention Is All You Need  
 https://arxiv.org/pdf/1706.03762.pdf
 
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
 https://arxiv.org/pdf/1810.04805.pdf
