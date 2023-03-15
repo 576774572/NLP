@@ -1,4 +1,4 @@
-# NER-pytorch-
+# tohoku-bert
 
 'cl-tohoku/bert-large-japanese'
 
