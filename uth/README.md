@@ -1,4 +1,4 @@
-# NER-pytorch-
+# uth-bert
 
 https://github.com/jinseikenai/uth-bert
 
