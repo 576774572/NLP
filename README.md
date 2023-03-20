@@ -30,4 +30,4 @@ https://arxiv.org/pdf/1810.04805.pdf
   
 ![Image text](https://github.com/576774572/image/blob/main/bert-crf.jpg)  
   
-![Image text](https://github.com/576774572/image/blob/main/bert-crf2.png)  
+![Image text](https://github.com/576774572/image/blob/main/bert-crf3.jpg)  
