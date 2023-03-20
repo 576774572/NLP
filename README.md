@@ -5,6 +5,7 @@ https://blog.csdn.net/weixin_44750512/article/details/128460220
 https://github.com/hemingkx/CLUENER2020  
 https://github.com/Louis-udm/NER-BERT-CRF  
 https://github.com/devjwsong/bert-crf-entity-extraction-pytorch/blob/main/src/main.py  
+https://github.com/s14t284/TorchCRF
 
 ## reference article
 https://buildersbox.corp-sansan.com/entry/2021/09/21/120000#BERT-CRF  
