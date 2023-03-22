@@ -1,6 +1,6 @@
 # NLP
 
-## NER-pytorch-
+## NER-pytorch-(BERT+CRF)
 
 ## text classification with bert
 
